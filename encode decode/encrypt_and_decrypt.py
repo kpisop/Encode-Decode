@@ -14,3 +14,5 @@ elif opt == "d":
         dtext = dtext + char[int(counter)]
 
     print("the decoded string is : ",dtext)
+
+#fin
